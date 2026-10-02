@@ -1,0 +1,6 @@
+name = "harry" 
+print(name[0:4])
+print(name[1:5])
+
+print(name[:4]) # star from zero 
+print(name[0:]) # last will be string lengh 
